@@ -23,7 +23,8 @@ Ou 3 asteriscos.
 ***
 
 ## Níveis de Títulos.
-Os títulos possuem de um a seis sustenidos, sendo 1 sustenido indicando título de nível 1 e assim por diante.
+Os títulos possuem de um a seis sustenidos, sendo 1 sustenido indicando título de nível 1, 2 sustenidos indicando título de nível 2 e assim por diante.
+
 # Título de nível 1
 ## Título de nível 2
 ### Título de nível 3
