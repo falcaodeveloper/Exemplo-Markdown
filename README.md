@@ -69,3 +69,31 @@ Esta **_palavra_** está em __*negrito e itálico*__.
 
 ## Criação de um Link
 [Veja todos os meus repositórios públicos](https://github.com/falcaodeveloper?tab=repositories)
+
+## Criação de Tabela
+Coluna A | Coluna B | Coluna C | Coluna D | Coluna E
+---|---|---|---|---
+Resposta A | Resposta B | Resposta C | Resposta D | Resposta E
+Outra Resposta A | Outra Resposta B | Outra Resposta C | Outra Resposta D | Outra Resposta E
+
+## Linha de Código
+Deixe toda a linha de código entre crases. Este código `document.getElementById("exemplo");` é escrito em JavaScript.
+
+## Trecho de Código
+Deixe todo trecho de código entre um par de 3 crases. Exemplo em CSS3, Cascading Style Sheets.
+```
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+```
+
