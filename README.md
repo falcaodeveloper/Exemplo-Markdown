@@ -11,6 +11,3 @@ Texto tachado, que não possui mais importância, ou seja, pode ser lido mas dev
 
 Em baixo há uma linha rorizontal feita com 3 hífens ou 3 asteríscos.
 ---
-***
-
-
