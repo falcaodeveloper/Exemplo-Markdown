@@ -53,3 +53,11 @@ Os títulos possuem de um a seis sustenidos, sendo 1 sustenido indicando título
       * Exemplo
       * Exemplo
       * Exemplo
+
+## Lista de Tarefas
+- [x] Tarefa A
+- [ ] Tarefa B
+- [ ] Tarefa C
+- [X] Tarefa D
+- [ ] Tarefa E
+- [ ] Tarefa F
