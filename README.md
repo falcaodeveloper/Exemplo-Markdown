@@ -35,7 +35,6 @@ Os títulos possuem de um a seis sustenidos, sendo 1 sustenido indicando título
 ## Combinação de Configurações
 É só combinar 2 ou mais configurações.
 
-### Exemplo de Palavra em Negrito e Itálico
 Esta **_palavra_** está em __*negrito e itálico*__.
 
 ## Listas Ordenadas
