@@ -1,2 +1,4 @@
 # Markdown
- Estudo da linguagem de marcação Markdown
+ Estudo da linguagem de marcação Markdown.
+
+ Frase em **negrito**
