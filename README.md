@@ -32,6 +32,12 @@ Os títulos possuem de um a seis sustenidos, sendo 1 sustenido indicando título
 ##### Título de nível 5
 ###### Título de nível 6
 
+## Combinação de Configurações
+É só combinar 2 ou mais configurações.
+
+### Exemplo de Palavra em Negrito e Itálico
+Esta **_palavra_** está em __*negrito e itálico*__.
+
 ## Listas Ordenadas
 1. exemplo 1
 1. exemplo 2
@@ -61,3 +67,6 @@ Os títulos possuem de um a seis sustenidos, sendo 1 sustenido indicando título
 - [X] Tarefa D
 - [ ] Tarefa E
 - [ ] Tarefa F
+
+
+
