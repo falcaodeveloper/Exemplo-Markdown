@@ -31,3 +31,14 @@ Os títulos possuem de um a seis sustenidos, sendo 1 sustenido indicando título
 #### Título de nível 4
 ##### Título de nível 5
 ###### Título de nível 6
+
+## Listas Ordenadas
+1. exemplo 1
+1. exemplo 2
+1. exemplo 3
+   1. exemplo 3.1
+   1. exemplo 3.2
+   1. exemplo 3.3
+      1. exemplo
+      1. exemplo
+      1. exemplo
