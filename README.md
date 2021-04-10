@@ -6,3 +6,6 @@ Veja o exemplo em **negrito** ou __negrito__.
 
 Para deixar algo em Itálico, usa-se 1 asterísco ou 1 underline.
 Exemplo em *itálico* ou _itálico_.
+
+Texto tachado, que não possui mais importância, ou seja, pode ser lido mas deve ser desconsiderado. Usa-se 2 til. 
+~~Você deve desconsiderar esta linha.~~
