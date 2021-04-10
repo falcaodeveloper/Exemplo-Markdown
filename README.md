@@ -9,5 +9,8 @@ Exemplo em *itálico* ou _itálico_.
 
 Texto tachado, que não possui mais importância, ou seja, pode ser lido mas deve ser desconsiderado. Usa-se 2 til. ~~Você deve desconsiderar esta linha.~~
 
-Em baixo há uma linha rorizontal feita com 3 hífens ou 3 asteríscos.
+Em baixo há uma linha rorizontal feita com 3 hífens.
 ---
+
+Ou 3 asteríscos.
+***
