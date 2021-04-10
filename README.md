@@ -1,5 +1,7 @@
 # Estudo da linguagem de marcação Markdown
 
+Aqui você verá apenas o resultado. Se desejar ver os comando utilizados, por favor, __clone__ o respectivo repositório.
+
 ## Negrito
 Para deixar algo em negrito, usa-se 2 asteríscos ou 2 underlines.
 Veja o exemplo em **negrito** ou __negrito__.
