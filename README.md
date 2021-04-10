@@ -97,3 +97,4 @@ p {
 }
 ```
 
+Como dito acima, se desejar ver os comando utilizados, por favor, __clone__ o respectivo repositório.
