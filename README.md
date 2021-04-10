@@ -14,10 +14,12 @@ Exemplo em *itálico* ou _itálico_.
 Texto tachado, que não possui mais importância, ou seja, pode ser lido mas deve ser desconsiderado. Usa-se 2 til. ~~Você deve desconsiderar esta linha.~~
 
 ## Linha Horizontal
-Em baixo há uma linha rorizontal feita com 3 hífens. O texto fica em negrito.
+Em baixo há uma linha rorizontal feita com 3 hífens.
+
 ---
 
-Se utilizar 3 asteriscos, o texto ficará com a fonte normal e a espessura da linha horizontal será maior.
+Ou 3 asteriscos.
+
 ***
 
 ## Níveis de Títulos.
